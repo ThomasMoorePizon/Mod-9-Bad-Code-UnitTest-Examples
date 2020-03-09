@@ -10,3 +10,6 @@ C:\Users\tpizon\OneDrive - ECMC group, Inc\Desktop\Python>python badcode.py > ba
 C:\Users\tpizon\OneDrive - ECMC group, Inc\Desktop\Python>python badtestcase.py > badtestcase.txt
 
 You can see both the sample code and the text outputs.
+
+Check out my blog for use an online debugger:
+https://helloworldshadowolf72.blogspot.com/2020/03/using-httpswwwonlinegdbcomonlinepythond.html
