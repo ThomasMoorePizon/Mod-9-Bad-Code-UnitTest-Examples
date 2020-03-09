@@ -1,0 +1,28 @@
+**********************************************************************
+File "badcode.py", line 4, in __main__.addtwo
+Failed example:
+    addtwo(2)
+Expected:
+    4
+Got:
+    5
+**********************************************************************
+File "badcode.py", line 6, in __main__.addtwo
+Failed example:
+    addtwo(-2)
+Expected:
+    0
+Got:
+    1
+**********************************************************************
+File "badcode.py", line 8, in __main__.addtwo
+Failed example:
+    addtwo(1)
+Expected:
+    3
+Got:
+    4
+**********************************************************************
+1 items had failures:
+   3 of   3 in __main__.addtwo
+***Test Failed*** 3 failures.

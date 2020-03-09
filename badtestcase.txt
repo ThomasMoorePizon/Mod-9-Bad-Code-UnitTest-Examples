@@ -1,0 +1,12 @@
+**********************************************************************
+File "badtestcase.py", line 8, in __main__.square
+Failed example:
+    square(1)
+Expected:
+    3
+Got:
+    1
+**********************************************************************
+1 items had failures:
+   1 of   3 in __main__.square
+***Test Failed*** 1 failures.
